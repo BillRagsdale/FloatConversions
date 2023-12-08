@@ -1,0 +1,3 @@
+These Win32Forth words convert the MetaStock, CompuTrac, QBasic, old MicroSoft floating point format
+to IEEE 754 64 bit format. 
+Useful for reading securities files from Dial Data, MetaStock and other.
